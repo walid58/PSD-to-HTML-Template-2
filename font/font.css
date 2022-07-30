@@ -1,0 +1,14 @@
+@font-face{
+	font-family:"Qlassik";
+	src:url("../font/Qlassik.eot") format("eot"),
+	url("../font/Qlassik.woff") format("woff"),
+	url("../font/Qlassik.ttf") format("truetype"),
+	url("../font/Qlassik.svg") format("svg");
+}
+@font-face{
+	font-family:"QlassikBold";
+	src:url("../font/QlassikBold.eot") format("eot"),
+	url("../font/QlassikBold.woff") format("woff"),
+	url("../font/QlassikBold.ttf") format("truetype"),
+	url("../font/QlassikBold.svg") format("svg");
+}
